@@ -12,6 +12,7 @@
 		F900EFAB2125828B00DC5894 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F900EFA92125828B00DC5894 /* Main.storyboard */; };
 		F900EFAD2125828C00DC5894 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F900EFAC2125828C00DC5894 /* Assets.xcassets */; };
 		F900EFB02125828C00DC5894 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F900EFAE2125828C00DC5894 /* LaunchScreen.storyboard */; };
+		F9A48795212587A200CF4880 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A48794212587A200CF4880 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F900EFAC2125828C00DC5894 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F900EFAF2125828C00DC5894 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F900EFB12125828C00DC5894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9A48794212587A200CF4880 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F900EFAC2125828C00DC5894 /* Assets.xcassets */,
 				F900EFAE2125828C00DC5894 /* LaunchScreen.storyboard */,
 				F900EFB12125828C00DC5894 /* Info.plist */,
+				F9A48794212587A200CF4880 /* Test.swift */,
 			);
 			path = "Test du Source Control";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				F900EFA82125828B00DC5894 /* ViewController.swift in Sources */,
 				F900EFA62125828B00DC5894 /* AppDelegate.swift in Sources */,
+				F9A48795212587A200CF4880 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
